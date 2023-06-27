@@ -1,8 +1,8 @@
 # latex
 Repo for my LaTeX templates
 
-## CV Template
+- CV Template
 ![Finrod Felagund CV](./pics/felagundResume.png)
 
-## Letter Template
+- Letter Template
 ![Finrod Felagund letter template](./pics/felagundLetter.png)
